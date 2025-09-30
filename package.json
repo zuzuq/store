@@ -2,7 +2,7 @@
   "name": "BOT-TELE-AUTO-ORDER",
   "version": "1.0.0",
   "description": "Bot Telegram Auto Order",
-  "main": "main.js",
+  "main": "ronzz.js",
   "scripts": {
     "start": "node ronzz.js"
   },
