@@ -1,0 +1,61 @@
+{
+  "order": {
+    "1835508209 ": {
+      "paket": "6gb",
+      "spec": {
+        "ram": "6000",
+        "disk": "3500",
+        "cpu": "140",
+        "harga": 6000
+      },
+      "chatId": 1835508209,
+      "ref": "D2018225ZQ0AK5HULHDF444",
+      "merchantOrderId": "PNL-1759196371091"
+    }
+  },
+  "list": [],
+  "testi": [],
+  "chat": {},
+  "user": [
+    "1835508209 "
+  ],
+  "sewa": {},
+  "produk": {
+    "YT1B": {
+      "id": "YT1B",
+      "name": "YOUTUBE PREMIUM",
+      "desc": "VIA INVITE",
+      "snk": "GARANSI BACK FREE",
+      "price": "2500",
+      "profit": "2500",
+      "terjual": 8,
+      "stok": [
+        "golang@gmail.com|12344",
+        "golang@gmail.com|12344",
+        "golang@gmail.com|12344",
+        "golang@gmail.com|12344"
+      ]
+    },
+    "DO3PP": {
+      "id": "DO3PP",
+      "name": "DIGITAL OCEAN",
+      "desc": "DROPLET 3 BILL PAYPAL",
+      "snk": "Nogar",
+      "price": "135000",
+      "profit": "135000",
+      "terjual": 14,
+      "stok": []
+    },
+    "DO10VCC": {
+      "id": "DO10VCC",
+      "name": "DIGITAL OCEAN",
+      "desc": "DROPLET 10 BILL VCC",
+      "snk": "Nogar",
+      "price": "125000",
+      "profit": "125000",
+      "terjual": 18,
+      "stok": []
+    }
+  },
+  "transaksi": []
+}
