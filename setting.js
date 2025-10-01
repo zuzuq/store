@@ -24,7 +24,7 @@ global.apikey = "ptla_tVCGyobnxSOa9TfcdUkspiHpuDZourpZM8edicKTaKs" //ptla
 global.capikey = "ptlc_F8mtGDTFw3CV4IZXW3HQeJAYZnE4WyG1laJdnfQKKRx" //ptlc
 
 //Setting
-global.BOT_TOKEN = "7600345211:AAGhNU9R1QJtdSTn5d7EYkY-gugC6PozgLQ" //Create bot here https://t.me/BotFather and get the bot token
+global.BOT_TOKEN = "8354600019:AAEnzTG4v9mdZF-gmFRxTMv6Sxg6TwqsV00" //Create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "bot bot an" //Your bot name
 global.OWNER_ID = "1835508209" //Your id
 global.OWNER_NAME = "kibiljoe" //Your name
