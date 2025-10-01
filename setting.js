@@ -19,9 +19,9 @@ DUITKU_API_KEY = "caa4719cecc7354ad8671daf42a44d82"
 global.egg = "15" // Egg ID
 global.nestid = "5" // nest ID
 global.loc = "1" // Location ID
-global.domain = "https://kyxzan-tzyy.cjdw.tech"
-global.apikey = "ptla_tVCGyobnxSOa9TfcdUkspiHpuDZourpZM8edicKTaKs" //ptla
-global.capikey = "ptlc_F8mtGDTFw3CV4IZXW3HQeJAYZnE4WyG1laJdnfQKKRx" //ptlc
+global.domain = "https://panel.kibiljoe.engineer"
+global.apikey = "ptla_DgPAZLKnMhntZE4B7OGZ58wCAbLnS5YSA8OpLGP6nRk" //ptla
+global.capikey = "ptlc_fLGTCLkOAmUS3lvfDcAyOEq6TfHKgZNz1NzM7NdI6CW" //ptlc
 
 //Setting
 global.BOT_TOKEN = "8138222181:AAFHJrVMsvzFMl5eECaL_HfpudAmQKbrjv0" //Create bot here https://t.me/BotFather and get the bot token
