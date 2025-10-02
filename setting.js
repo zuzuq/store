@@ -20,8 +20,8 @@ global.egg = "15" // Egg ID
 global.nestid = "5" // nest ID
 global.loc = "1" // Location ID
 global.domain = "https://panel.kibiljoe.engineer"
-global.apikey = "ptla_DgPAZLKnMhntZE4B7OGZ58wCAbLnS5YSA8OpLGP6nRk" //ptla
-global.capikey = "ptlc_fLGTCLkOAmUS3lvfDcAyOEq6TfHKgZNz1NzM7NdI6CW" //ptlc
+global.apikey = "ptla_yiToFBHh6TSC3oJxntUQ6QdTexFjOaXS7JdxCa8EEkZ" //ptla
+global.capikey = "ptlc_v0kVzMq1SALPIOTLPhRx4TrNdNdHNrredtsqJCQElNw" //ptlc
 
 //Setting
 global.BOT_TOKEN = "8138222181:AAFHJrVMsvzFMl5eECaL_HfpudAmQKbrjv0" //Create bot here https://t.me/BotFather and get the bot token
