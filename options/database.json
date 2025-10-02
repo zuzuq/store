@@ -1,0 +1,48 @@
+{
+  "order": {},
+  "list": [],
+  "testi": [],
+  "chat": {},
+  "user": [
+    "1835508209 "
+  ],
+  "sewa": {},
+  "produk": {
+    "YT1B": {
+      "id": "YT1B",
+      "name": "YOUTUBE PREMIUM",
+      "desc": "VIA INVITE",
+      "snk": "GARANSI BACK FREE",
+      "price": "2500",
+      "profit": "2500",
+      "terjual": 8,
+      "stok": [
+        "golang@gmail.com|12344",
+        "golang@gmail.com|12344",
+        "golang@gmail.com|12344",
+        "golang@gmail.com|12344"
+      ]
+    },
+    "DO3PP": {
+      "id": "DO3PP",
+      "name": "DIGITAL OCEAN",
+      "desc": "DROPLET 3 BILL PAYPAL",
+      "snk": "Nogar",
+      "price": "135000",
+      "profit": "135000",
+      "terjual": 14,
+      "stok": []
+    },
+    "DO10VCC": {
+      "id": "DO10VCC",
+      "name": "DIGITAL OCEAN",
+      "desc": "DROPLET 10 BILL VCC",
+      "snk": "Nogar",
+      "price": "125000",
+      "profit": "125000",
+      "terjual": 18,
+      "stok": []
+    }
+  },
+  "transaksi": []
+}
