@@ -1,23 +1,14 @@
 {
-  "order": {
-    "1835508209 ": {
-      "paket": "6gb",
-      "spec": {
-        "ram": "6000",
-        "disk": "3500",
-        "cpu": "140",
-        "harga": 6000
-      },
-      "chatId": 1835508209,
-      "ref": "D2018225ZQ0AK5HULHDF444",
-      "merchantOrderId": "PNL-1759196371091"
-    }
-  },
+  "order": {},
   "list": [],
   "testi": [],
   "chat": {},
   "user": [
-    "1835508209 "
+    "1835508209"
+    "1092421241"
+    "6304082972"
+    "5371402806"
+    "5894696119"
   ],
   "sewa": {},
   "produk": {
@@ -55,6 +46,21 @@
       "profit": "125000",
       "terjual": 18,
       "stok": []
+    },
+    "CNV": {
+      "id": "CNV",
+      "name": "CANVA PRO",
+      "desc": "VIA INVITE 1 BULAN",
+      "snk": "Nogar",
+      "price": "2000",
+      "profit": "2000",
+      "terjual": 18,
+      "stok": [
+        "sendemailkeowner@gmail.com|owner @kibiljoe",
+        "sendemailkeowner@gmail.com|owner @kibiljoe",
+        "sendemailkeowner@gmail.com|owner @kibiljoe",
+        "sendemailkeowner@gmail.com|owner @kibiljoe"
+      ]
     }
   },
   "transaksi": []
