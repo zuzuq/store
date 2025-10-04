@@ -633,7 +633,7 @@ case 'buypanel': {
 
     if (!q) {
       reply(`Pilih RAM Server Panel yang tersedia\n\n` +
-        `• Ram 5GB - Rp2.000\nKetik: /buypanel 5gb\n\n` +
+        `• Ram 5GB - Rp100\nKetik: /buypanel 5gb\n\n` +
         `• Ram 6GB - Rp3.000\nKetik: /buypanel 6gb\n\n` +
         `• Ram 7GB - Rp4.000\nKetik: /buypanel 7gb\n\n` +
         `• Ram 8GB - Rp5.000\nKetik: /buypanel 8gb\n\n` +
@@ -644,7 +644,7 @@ case 'buypanel': {
 
     let Obj = {}
     let cmd = q.toLowerCase()
-    if (cmd == "5gb") Obj = { ram: "5000", disk: "3000", cpu: "120", harga: 2000 }
+    if (cmd == "5gb") Obj = { ram: "5000", disk: "3000", cpu: "120", harga: 100 }
     else if (cmd == "6gb") Obj = { ram: "6000", disk: "3500", cpu: "140", harga: 3000 }
     else if (cmd == "7gb") Obj = { ram: "7000", disk: "4000", cpu: "160", harga: 4000 }
     else if (cmd == "8gb") Obj = { ram: "8000", disk: "4500", cpu: "180", harga: 5000 }
