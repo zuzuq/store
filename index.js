@@ -438,7 +438,7 @@ case 'buy': {
     let trx = await axios.post("https://passport.duitku.com/webapi/api/merchant/v2/inquiry", {
       merchantCode: DUITKU_MERCHANT_CODE,
       paymentAmount: amount,
-      paymentMethod: "SQ", // metode pembayaran
+      paymentMethod: "SP", // metode pembayaran
       merchantOrderId: merchantOrderId,
       productDetails: db.data.produk[data[0]].name,
       customerVaName: pushname,
@@ -667,7 +667,7 @@ case 'buypanel': {
       let trx = await axios.post("https://passport.duitku.com/webapi/api/merchant/v2/inquiry", {
         merchantCode: DUITKU_MERCHANT_CODE,
         paymentAmount: amount,
-        paymentMethod: "SQ", // Metode pembayaran QRIS
+        paymentMethod: "SP", // Metode pembayaran QRIS
         merchantOrderId: merchantOrderId,
         productDetails: `Panel Pterodactyl ${cmd.toUpperCase()}`,
         customerVaName: pushname,
