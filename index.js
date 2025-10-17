@@ -670,7 +670,8 @@ Silakan pilih paket yang Anda inginkan dengan mengetik perintah di bawah.
 
     let Obj = {}
     let cmd = q.toLowerCase()
-    if (cmd == "5gb" || cmd == "5") Obj = { ram: "5000", disk: "3000", cpu: "120", harga: 2000 }
+  if (cmd == "1gb" || cmd == "1") Obj = { ram: "1000", disk: "2000", cpu: "100", harga: 100 }
+    else if (cmd == "5gb" || cmd == "5") Obj = { ram: "5000", disk: "3000", cpu: "120", harga: 2000 }
     else if (cmd == "6gb" || cmd == "6") Obj = { ram: "6000", disk: "3500", cpu: "140", harga: 3000 }
     else if (cmd == "7gb" || cmd == "7") Obj = { ram: "7000", disk: "4000", cpu: "160", harga: 4000 }
     else if (cmd == "8gb" || cmd == "8") Obj = { ram: "8000", disk: "4500", cpu: "180", harga: 5000 }
