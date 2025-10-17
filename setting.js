@@ -19,9 +19,9 @@ DUITKU_API_KEY = "caa4719cecc7354ad8671daf42a44d82"
 global.egg = "15" // Egg ID
 global.nestid = "5" // nest ID
 global.loc = "1" // Location ID
-global.domain = "https://loveyouu.cjdw.tech"
-global.apikey = "ptla_tlUZczMs4iqJPysUgp1XCOBnUWvUtvNn9rjvWSZXMQ6" //ptla
-global.capikey = "ptlc_AsNni9ildc7BdESkrSF63PXSvMXDreDh7kZQTcci16A" //ptlc
+global.domain = "https://archellopublic.publicserver.my.id"
+global.apikey = "ptla_JJ8y8PExPQPRPkJABLBRFcbcfnYA2dptpOoOMuv4Ncz" //ptla
+global.capikey = "ptlc_gLLn4TLFlZychedWHBLgoHXpBWfcFApMwHFfwxaBkjN" //ptlc
 
 //Setting
 global.BOT_TOKEN = "8138222181:AAFHJrVMsvzFMl5eECaL_HfpudAmQKbrjv0" //Create bot here https://t.me/BotFather and get the bot token
