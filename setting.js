@@ -19,9 +19,9 @@ DUITKU_API_KEY = "caa4719cecc7354ad8671daf42a44d82"
 global.egg = "15" // Egg ID
 global.nestid = "5" // nest ID
 global.loc = "1" // Location ID
-global.domain = "https://archellopublic.publicserver.my.id"
-global.apikey = "ptla_JJ8y8PExPQPRPkJABLBRFcbcfnYA2dptpOoOMuv4Ncz" //ptla
-global.capikey = "ptlc_gLLn4TLFlZychedWHBLgoHXpBWfcFApMwHFfwxaBkjN" //ptlc
+global.domain = "https://fanzzz.404-eror.systems"
+global.apikey = "ptla_MlKIQoH4H55YPTjaF9ZDVhAhWX7LsRSHaaJdplxg7o5" //ptla
+global.capikey = "ptlc_dih3OthphCOtq9jp8DmE1siUIo7Rt18rmw5unR11zZR" //ptlc
 
 //Setting
 global.BOT_TOKEN = "8138222181:AAFHJrVMsvzFMl5eECaL_HfpudAmQKbrjv0" //Create bot here https://t.me/BotFather and get the bot token
